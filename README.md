@@ -1,2 +1,2 @@
-# my-automation
-A bunch of automation helpers (docker, ansible, terraform)
+# automation
+A bunch of miscellaneous automation helpers (docker, ansible, terraform)
